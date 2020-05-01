@@ -1,0 +1,15 @@
+name: EarthCraft
+main: org.MetaCringer.Main.PEarthCraft
+version: 0
+commands:
+    regen:
+        description: regen this chunk
+        usage: /regen
+    color:
+        description: get color on map
+    build:
+        description: build structure
+    destroy:
+        description: destroy structure by id
+    check:
+        description: check id structure
